@@ -8,3 +8,12 @@
 
 3，打包docker优化。
 
+
+
+在项目下创建目录 /inference，将预识别模型放置该位置下。
+
+ch_ppocr_mobile_v2.0_cls_infer
+
+ch_ppocr_server_v2.0_det_infer
+
+ch_ppocr_server_v2.0_rec_infer
